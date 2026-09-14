@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Shahil 👋</h1>
 
 <p align="center">
-  Full-stack developer. I build products end to end — schema to deploy.
+  Backend-focused developer. I build products end to end — schema to deploy.
 </p>
 
 <p align="center">
   <a href="https://shahil-1999.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-shahil--1999.github.io-2563eb?style=flat-square"></a>
-  <a href="mailto:kshahil1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-kshahil1999%40gmail.com-informational?style=flat-square"></a>
+  <a href="mailto:shahilchourasia30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-shahilchourasia30%40gmail.com-informational?style=flat-square"></a>
 </p>
 
 ---
@@ -16,6 +16,8 @@
 **[Flowdesk](https://github.com/Shahil-1999/flowdesk-hrms_frontend)** — a multi-tenant HR management platform: attendance, leave, payroll, employee lifecycle (onboarding → separation), projects &amp; tasks, reimbursements, and subscription billing. React 19 + Vite frontend, Express 5 + PostgreSQL backend, deployed on Render.
 
 - 🔗 [Live demo](https://flowdesk-hrms-frontend.onrender.com) · [Source](https://github.com/Shahil-1999/flowdesk-hrms_frontend) · [Portfolio case study](https://shahil-1999.github.io/#work)
+
+Also built **[Post Feed](https://github.com/Shahil-1999/post-feed-web-application-backend-POC-revamp-express)** — a social posting app with JWT refresh-token rotation, posts/comments, and S3 profile images.
 
 ### 🛠️ Stack
 
@@ -39,4 +41,4 @@ I like owning the whole stack: API design, data modelling, the UI on top, and th
 
 ### 📫 Reach me
 
-[kshahil1999@gmail.com](mailto:kshahil1999@gmail.com) · [Portfolio](https://shahil-1999.github.io)
+[shahilchourasia30@gmail.com](mailto:shahilchourasia30@gmail.com) · [Portfolio](https://shahil-1999.github.io)
